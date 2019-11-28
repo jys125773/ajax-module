@@ -1,5 +1,5 @@
 # ajax-module
-原生ajax库，实现jsonp跨域，短小精悍。
+原生ajax库，实现jsonp跨域。
 
 ```bash
 ajax({
